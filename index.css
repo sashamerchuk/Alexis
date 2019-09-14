@@ -2,7 +2,7 @@ body{
     margin:0;
 }
 header{
-    background-image:url("background-image2.png");
+    background-image:url("foto/background-image2.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -204,14 +204,14 @@ video{
 }
 
 .flexPortfolio1 {
-    background-image:url("SingleItem.png");
+    background-image:url("foto/SingleItem.png");
     background-size:contain;
     background-repeat: no-repeat;
     width:200px;
     height:200px;
 }
 .flexPortfolio2{
-    background-image:url("item 2.png");
+    background-image:url("foto/item 2.png");
     background-size:contain;
     background-repeat: no-repeat;
     width:200px;
@@ -220,45 +220,45 @@ video{
 .flexPortfolio3{
     width:200px;
     height:200px;
-    background-image:url("item 3.png");
+    background-image:url("foto/item 3.png");
     background-size:contain;
     background-repeat: no-repeat;
 }
 .flexPortfolio4{
     width:200px;
     height:200px;
-    background-image:url("portfolio itema.png");
+    background-image:url("foto/portfolio itema.png");
     background-size:contain;
     background-repeat: no-repeat;
 }.flexPortfolio5{
      width:200px;
      height:200px;
-     background-image:url("portfolio itema2.png");
+     background-image:url("foto/portfolio itema2.png");
      background-size:contain;
      background-repeat: no-repeat;
  }.flexPortfolio6{
       width:200px;
       height:200px;
-      background-image:url("portfolio itema3.png");
+      background-image:url("foto/portfolio itema3.png");
       background-size:contain;
       background-repeat: no-repeat;
   }
 .flexPortfolio7{
     width:200px;
     height:200px;
-    background-image:url("portfolio itema4.png");
+    background-image:url("foto/portfolio itema4.png");
     background-size:contain;
     background-repeat: no-repeat;
 }.flexPortfolio8{
      width:200px;
      height:200px;
-     background-image:url("portfolio itema5.png");
+     background-image:url("foto/portfolio itema5.png");
      background-size:contain;
      background-repeat: no-repeat;
  }.flexPortfolio9{
       width:200px;
       height:200px;
-      background-image:url("portfolio itema6.png");
+      background-image:url("foto/portfolio itema6.png");
       background-size:contain;
       background-repeat: no-repeat;
   }
@@ -307,7 +307,7 @@ video{
     margin:5% 7.5%;
 }
 .coffe{
-    background-image:url("coffeBackground.png");
+    background-image:url("foto/coffeBackground.png");
     background-repeat: no-repeat;
     background-size:cover;
     padding-bottom: 3%;
